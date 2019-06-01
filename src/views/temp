@@ -1,0 +1,66 @@
+<template>
+    <div>
+        <div class="position-relative">
+            <section class="section-shaped section-lg my-0">
+                <div class="shape shape-style-1 shape-dark">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                    
+                
+                </div>
+                <div class="container shape-container  d-flex">
+                    <div class="col px-0">
+                    <div class="row row-grid justify-content-center">
+                        <div class="col-lg-8 text-center">
+                        <h1 class="display-1  text-secondary">TMEval
+                        </h1>
+                        <p class="lead text-secondary">Evaluator for Transmembrane Protein Prediction Methods</p>
+                        <div class="btn-wrapper">
+                    
+                             <base-button tag="a"
+                                                 href="https://demos.creative-tim.com/argon-design-system/docs/components/alerts.html"
+                                                 class="mb-3 mb-sm-0"
+                                                 type="success"
+                                                 icon="fa fa-bar-chart">
+                                        View Assessment
+                            </base-button>
+                            <!-- <base-button tag="a"
+                                                 href="#submit_sequences"
+                                                 class="mb-3 mb-sm-0"
+                                                 type="success"
+                                                 icon="fa fa-upload">
+                                        Choose Protein Groups
+                            </base-button> -->
+                            <base-button tag="a"
+                                                 href="#predict_sequences"
+                                                 class="mb-3 mb-sm-0"
+                                                 type="danger"
+                                                 icon="fa fa-upload">
+                                        Submit Sequences for Prediction
+                            </base-button>
+                            
+                        </div>
+                        </div>
+                    </div>
+                    </div>
+                </div>
+                <!-- SVG separator -->
+                <!-- <div class="separator separator-bottom separator-skew">
+                    <svg x="0" y="0" viewBox="0 0 2560 100" preserveAspectRatio="none" version="1.1" xmlns="http://www.w3.org/2000/svg">
+                    <polygon class="fill-white" points="2560 0 2560 100 0 100"></polygon>
+                    </svg>
+                </div> -->
+            </section>
+        </div>
+    </div>
+</template>
+
+<script>
+export default {
+  name: "home",
+  components: {}
+};
+</script>

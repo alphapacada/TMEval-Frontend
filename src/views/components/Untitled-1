@@ -1,0 +1,57 @@
+<template>
+    <div class="up_pftv_category_TOPOLOGY">
+        <div class="up_pftv_category">
+            <a class="up_pftv_category-name up_pftv_arrow-right" title="TOPOLOGY">Topology</a>
+                <div class="up_pftv_category-viewer">
+                    <svg width="760" height="40">
+                        <g>
+                            <path class="up_pftv_highlight" d="M-1,-1" transform="translate(-1,-1)" height="40"></path>
+                        </g>
+                        <g class="up_pftv_category-viewer-group">
+                            <path name="TOPOLOGY_0" class="up_pftv_feature up_pftv_topo_dom" d="M-0.48051948051948035,0L656.8701298701296,0L656.8701298701296,13L-0.48051948051948035,13Z" transform="translate(26.337662337662337,12.5)"></path>
+                            <path name="TOPOLOGY_1" class="up_pftv_feature up_pftv_transmem" d="M-0.48051948051948035,0L19.701298701298693,0L19.701298701298693,13L-0.48051948051948035,13Z" transform="translate(683.6883116883117,12.5)"></path>
+                            <path name="TOPOLOGY_2" class="up_pftv_feature up_pftv_topo_dom" d="M-0.48051948051948035,0L45.64935064935063,0L45.64935064935063,13L-0.48051948051948035,13Z" transform="translate(703.8701298701299,12.5)"></path>
+                        </g>
+                    </svg>
+                </div>
+            <!-- <div class="up_pftv_category-tracks" style="display: block;">
+                <div class="up_pftv_track-header" title="TOPOLOGICAL DOMAIN
+Location of non-membrane regions of membrane-spanning proteins" style="display: inline-block;">Topological domain
+                </div>
+                <div class="up_pftv_track">
+                    <svg width="760" height="40">
+                        <g>
+                            <path class="up_pftv_highlight" d="M-1,-1" transform="translate(-1,-1)" height="40">
+                            </path>
+                        </g>
+                        <g class="up_pftv_category-viewer-group">
+                            <path name="TOPOLOGY_0" class="up_pftv_feature up_pftv_topo_dom" d="M-0.48051948051948035,0L656.8701298701296,0L656.8701298701296,13L-0.48051948051948035,13Z" transform="translate(26.337662337662337,12.5)"></path>
+                            <path name="TOPOLOGY_2" class="up_pftv_feature up_pftv_topo_dom" d="M-0.48051948051948035,0L45.64935064935063,0L45.64935064935063,13L-0.48051948051948035,13Z" transform="translate(703.8701298701299,12.5)"></path>
+                        </g>
+                    </svg>
+                </div>
+                <div class="up_pftv_track-header" title="TRANSMEMBRANE
+                Extent of a membrane-spanning region" style="display: inline-block;">Transmembrane</div><div class="up_pftv_track">
+                    <svg width="760" height="40"><g><path class="up_pftv_highlight" d="M-1,-1" transform="translate(-1,-1)" height="40">
+                        </path>
+                        </g>
+                        <g class="up_pftv_category-viewer-group">
+                            <path name="TOPOLOGY_1" class="up_pftv_feature up_pftv_transmem" d="M-0.48051948051948035,0L19.701298701298693,0L19.701298701298693,13L-0.48051948051948035,13Z" transform="translate(683.6883116883117,12.5)">
+                            </path>
+                        </g>
+                    </svg>
+                </div>
+            </div> -->
+        </div>
+    </div>
+</template>
+
+<script>
+export default {
+    name:'topology'
+}
+</script>
+
+<style>
+
+</style>

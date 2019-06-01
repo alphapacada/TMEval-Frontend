@@ -1,0 +1,104 @@
+    <section id = "predict_sequences" class="section section-lg bg-secondary">
+        <!-- <nav class="col-md-2 d-none d-md-block bg-light sidebar">
+            <div class="sidebar-sticky"></div>
+        </nav> -->
+        <!-- <div class="container bg-success"> -->
+            <div class="container-fluid " style="height: 500px;" >
+                  <div class="row h-100 alight-items-center">
+                    <div class="col-md-6 pt-5">
+                        <!-- <div class="row row-grid justify-content-center mx-auto">
+                    
+                            <div class="col-lg-8 text-center">
+                                <h4 class="display-4 text-white">Submit sequence in fasta format for TM Topology Prediction
+                                </h4>
+                                <form id="form_id" @submit="checkForm" method="post">
+                                
+                                    <textarea class="form-control" id="Textarea1" rows="5"  placeholder="Write a large text here ..."></textarea>
+                                    <input type="submit" value="Submit">  
+                                </form>
+                                <base-button v-on:click="message ='nyok nyok'"> Click me</base-button>
+                                <p>{{ message }} </p>
+                    
+                            </div>
+                        </div> -->
+                        <card class=" w-75 shadow float-right">
+                            <span border >
+                                <h3 class=" mb-5 text-success"><strong>Submit a fasta sequence for TM Topology Prediction</strong>
+                                </h3>
+                            </span>
+                            <form id="form_id" @submit="checkForm" method="post">
+                            
+                                <textarea class="form-control" id="Textarea1" rows="5"  placeholder="Write a large text here ..."></textarea>
+                                 
+                                
+                                <base-input placeholder="name@example.com"></base-input>
+                                <base-button type="success" v-on:click="message ='nyok nyok'"> Click me</base-button> 
+                                </form>
+                           
+                            <p>{{ message }} </p>
+
+                        </card>
+
+                    </div>
+                    
+                    <div class="col">
+                        <card shadow></card>
+                        
+                    </div>
+                </div> 
+            
+            </div>
+             <section class="section ">
+            <div class="container">
+                <div class="row  align-items-center">
+                    <div class="col-md-6">
+                        <card class="bg-secondary  shadow">
+                            <span>
+                                <h3 class=" mb-5 text-primary">Submit sequence in fasta format for TM Topology Prediction
+                                </h3>
+                            </span>
+                            <form id="form_id" @submit="checkForm" method="post">
+                            
+                                <textarea class="form-control" id="Textarea1" rows="5"  placeholder="Write a large text here ..."></textarea>
+                                <input type="submit" value="Submit">  
+                            </form>
+                            <base-button v-on:click="message ='nyok nyok'"> Click me</base-button>
+                            <p>{{ message }} </p>
+
+                        </card>
+                       
+                    </div>
+                    <div class="col-md-6">
+                        <div class="pl-md-5 ">
+                            <icon name="ni ni-settings" class="mb-5" size="lg" type="warning" shadow rounded></icon>
+
+                            <h3>Our customers</h3>
+                            <p class="lead">Don't let your uses guess by attaching tooltips and popoves to any element.
+                                Just make sure you enable them first via JavaScript.</p>
+                            <p>The kit comes with three pre-built pages to help you get started faster. You can change
+                                the text and images and you're good to go.</p>
+                            <p>The kit comes with three pre-built pages to help you get started faster. You can change
+                                the text and images and you're good to go.</p>
+                            <a href="#" class="font-weight-bold text-warning mt-5">A beautiful UI Kit for impactful
+                                websites</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+        </section>
+              
+            
+                
+                
+               
+               
+                 
+                <!-- <div class="col-lg-8">  <p class="lead text-default">Alternatively, you can submit a fasta file.</p>
+                    <input type="file" class="btn btn-default" name="file" id="submitSeq">
+                </div> -->
+                   
+        
+        
+        <!-- </div> -->
+        

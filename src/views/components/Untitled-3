@@ -1,0 +1,29 @@
+<div class="bg-light pt-6">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-5 mr-auto align-self-center mb-5">
+            <div class="my-4">
+              <h3>Multi-device support</h3>
+              <p class="text-dark">
+                All pages inside Robust are optimized for mobile, tablet and desktop. It doesn't matter what device you're using.
+              </p>
+            </div>
+            <div class="my-4">
+              <h3>Well-documented</h3>
+              <p class="text-dark">
+                All Robust's components are well-documented and a Quick Start document is included to speed things up on your side.
+              </p>
+            </div>
+            <div class="my-4">
+              <h3>3rd party plugins</h3>
+              <p class="text-dark">
+                Robust comes with multiple 3rd party plugins that are easy to use and and combine well with other components.
+              </p>
+            </div>
+          </div>
+          <div class="col-md-5 ml-auto mt-4">
+            <img src="img/ipad.png" class="img-fluid" alt="iPad">
+          </div>
+        </div>
+      </div>
+    </div>
