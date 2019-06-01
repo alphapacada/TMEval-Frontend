@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "b9949387c6179e2dc4c675134a7b7935",
-    "url": "/TMEval-Frontend/favicon.png"
+    "revision": "c85c75275c0a0a617f9e5accc2700908",
+    "url": "/TMEval-Frontend/img/brand/creativetim-white-slim.png"
   },
   {
     "revision": "be997d5226b992ffad34816870c6b7aa",
@@ -52,12 +52,12 @@ self.__precacheManifest = [
     "url": "/TMEval-Frontend/img/theme/img-1-1200x1000.jpg"
   },
   {
-    "revision": "7789b5bfa57722dd8916b1b9ff1b1d37",
-    "url": "/TMEval-Frontend/img/theme/img-2-1200x1000.jpg"
-  },
-  {
     "revision": "edc7106b21ec12e57022b2ebd534cd2d",
     "url": "/TMEval-Frontend/img/theme/team-1-800x800.jpg"
+  },
+  {
+    "revision": "7789b5bfa57722dd8916b1b9ff1b1d37",
+    "url": "/TMEval-Frontend/img/theme/img-2-1200x1000.jpg"
   },
   {
     "revision": "594b1ee1d95ada356eaad078e9217932",
@@ -76,24 +76,24 @@ self.__precacheManifest = [
     "url": "/TMEval-Frontend/img/theme/profile.jpg"
   },
   {
-    "revision": "b9949387c6179e2dc4c675134a7b7935",
-    "url": "/TMEval-Frontend/img/brand/favicon.png"
+    "revision": "d9a731e080ba39ce281ddd6b5367822e",
+    "url": "/TMEval-Frontend/img/boi.png"
   },
   {
     "revision": "185288d13ed8e9d745bd279ea34667bf",
     "url": "/TMEval-Frontend/img/brand/blue.png"
   },
   {
-    "revision": "8e55eab46b5fcfc4a7a0b27cb07c8888",
-    "url": "/TMEval-Frontend/img/brand/github-white-slim.png"
+    "revision": "b9949387c6179e2dc4c675134a7b7935",
+    "url": "/TMEval-Frontend/img/brand/favicon.png"
   },
   {
     "revision": "f82ec6ba2dc4181db2af35c499462840",
     "url": "/TMEval-Frontend/fonts/nucleo-icons.f82ec6ba.ttf"
   },
   {
-    "revision": "c85c75275c0a0a617f9e5accc2700908",
-    "url": "/TMEval-Frontend/img/brand/creativetim-white-slim.png"
+    "revision": "8e55eab46b5fcfc4a7a0b27cb07c8888",
+    "url": "/TMEval-Frontend/img/brand/github-white-slim.png"
   },
   {
     "revision": "a957f7e82403ef5c1efe54e4085e8196",
@@ -102,10 +102,6 @@ self.__precacheManifest = [
   {
     "revision": "974088a1931e40895bac6db119c62448",
     "url": "/TMEval-Frontend/img/theme/promo-1.png"
-  },
-  {
-    "revision": "d9a731e080ba39ce281ddd6b5367822e",
-    "url": "/TMEval-Frontend/img/boi.png"
   },
   {
     "revision": "426439788ec5ba772cdf94057f6f4659",
@@ -130,6 +126,10 @@ self.__precacheManifest = [
   {
     "revision": "674f50d287a8c48dc19ba404d20fe713",
     "url": "/TMEval-Frontend/fonts/fontawesome-webfont.674f50d2.eot"
+  },
+  {
+    "revision": "b9949387c6179e2dc4c675134a7b7935",
+    "url": "/TMEval-Frontend/favicon.png"
   },
   {
     "revision": "bb1a9355140826adbf48",
