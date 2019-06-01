@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/TMEval-Frontend/precache-manifest.411256acb63a48b6747a38723c85fd45.js"
+  "/TMEval-Frontend/precache-manifest.b401f34dbb77e294d002f7378438826c.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "tmeval-frontend"});
